@@ -1,0 +1,6 @@
+﻿  MathIsFun.cpp
+..\..\..\..\Daniel's Documents\Advanced C++\MathIsFun\MathIsFun\MathIsFun.cpp(92): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+..\..\..\..\Daniel's Documents\Advanced C++\MathIsFun\MathIsFun\MathIsFun.cpp(774): warning C4129: ' ': unrecognized character escape sequence
+c:\users\daniel\documents\daniel's documents\advanced c++\mathisfun\mathisfun\mathisfun.cpp(561): warning C4700: uninitialized local variable 'obj' used
+c:\users\daniel\documents\daniel's documents\advanced c++\mathisfun\mathisfun\mathisfun.cpp(676): warning C4700: uninitialized local variable 'obj2' used
+  MathIsFun.vcxproj -> C:\Users\Daniel\Documents\Daniel's Documents\Advanced C++\MathIsFun\Debug\MathIsFun.exe
